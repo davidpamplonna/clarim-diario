@@ -1,0 +1,10 @@
+:root {
+  --color-destaque: #c0392b;
+  --color-texto: #1a1a1a;
+  --color-suave: #6b6b6b;
+  --color-fundo: #eceae5;
+  --fonte-corpo: "Trebuchet MS", sans-serif;
+  --fonte-ui: "Arial", sans-serif;
+  --raio: 8px;
+  --color-card: #ffffff;
+}

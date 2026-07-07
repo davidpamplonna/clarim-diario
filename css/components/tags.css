@@ -1,0 +1,29 @@
+.categoria {
+  display: inline-block;
+  background-color: var(--color-destaque);
+  color: #ffffff;
+  font-family: var(--fonte-ui);
+  font-size: 12px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  letter-spacing: 0.5px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 32px;
+}
+
+.tag a {
+    font-family: var(--fonte-ui);
+    font-size: 13px;
+    background: #e2dfd8;
+    color: var(--color-texto);
+    padding: 6px 12px;
+    text-decoration: none;
+    border-radius: 16px;
+}
