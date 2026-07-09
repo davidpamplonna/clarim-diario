@@ -1,4 +1,4 @@
-import { buscarCep } from "./viacep.js";
+import { buscarCep } from "../services/viacep.js";
 
 let form = document.querySelector("#form-cadastro");
 let campoCep = document.querySelector("#cep");
